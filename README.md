@@ -19,7 +19,7 @@
   </p>
 
 ### How it works? 🤨
-As default, CS2 just allows disable collision between players with the same team, but with this plugin, you can disable collision between all players, no matter the team.
+By default, CS2 only allows disabling collisions between players that are on the same team, but with this plugin, you can disable collisions between all players, regardless of their team.
 
 ### Requeriments 📄
 1. CS2 Server 🤡
